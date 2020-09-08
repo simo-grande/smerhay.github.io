@@ -12,4 +12,4 @@ function reverseArray(arr) {
 
 }
 const arr1 = [1, 2, 3, 4, 5];
-console.log(reverseArray(arr1));
+alert(reverseArray(arr1));

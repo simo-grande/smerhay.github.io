@@ -5,4 +5,4 @@ function maxOfThree(x, y, z) {
 }
 
 
-console.log(maxOfThree(8, 9, 20));
+alert(maxOfThree(8, 9, 20));

@@ -7,7 +7,7 @@ function sum(arr) {
 
 }
 const ar1=[1,2,3,4];
-console.log(sum(ar1));
+alert(sum(ar1));
 
 function multiply(arr){
     let pro= 1;
@@ -17,4 +17,4 @@ function multiply(arr){
     return pro;
 }
 const ar2=[1,2,3,4];
-console.log(multiply(ar2));
+alert(multiply(ar2));

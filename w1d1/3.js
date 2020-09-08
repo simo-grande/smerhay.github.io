@@ -12,4 +12,4 @@ function findLongestWord(arr) {
 }
 
 const words = ["i", "am", "the", "best"];
-console.log(findLongestWord(words));
+alert(findLongestWord(words));
